@@ -1,3 +1,3 @@
-module github.com/llllrg/go-paymentwall
+module github.com/fanchen-zc/go-paymentwall
 
-go 1.18
+go 1.17
